@@ -1,4 +1,5 @@
 ## Hello this is SIVABHARATHI RAMESH 👋
+Currently pursuing my B.Voc Degree in Software Development and Machine Learning.
 
 <!--
 **Sivabharathi-Ramesh/Sivabharathi-Ramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
